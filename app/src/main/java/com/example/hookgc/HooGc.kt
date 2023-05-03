@@ -1,6 +1,6 @@
 package com.example.hookgc
 
-internal class HooGc {
+ class HooGc {
 
     external fun delayGC():Unit
 
